@@ -1,0 +1,61 @@
+@charset "utf-8";
+	body{
+		font-family: Arial, Verdana, sans-serif;
+		color: beige;
+		font-size:10pt;
+		padding:0px;
+		margin:0px;
+		background-image:url(kepek/black.png)
+	}
+	.tarolo{
+		width:90%;
+		max-width: 900px;
+		background-position: center center;
+		background-attachment:fixed;
+		background-color:rgb(60, 60, 60);
+		margin: 0 auto 0 auto;
+	}
+	.fejléc img{
+		width:100%
+	}
+	.fecléc{
+		height:400px;
+	}
+	.menü{
+		background-color:gray;
+	}
+	a{
+		text-decoration:none;
+		color:white;
+	}
+	p{
+		text-align:justify;
+		font-size:10px;
+	}
+	h1{
+		font-size:15px;
+	}
+	.tartalom img{
+		float:right;
+		padding:10px;
+		margin-left:5px;
+		margin-bottom:10px;
+		margin-right:10px;
+		height:300px;
+		width: 200px;
+	}
+	ul{
+		list-style:square;
+	}
+	.nav1:hover{
+		background-color:orange;
+	}
+	.labléc{
+		background-color:orange;
+		color:black;
+	}
+	
+		
+		
+		
+	
